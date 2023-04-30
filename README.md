@@ -1,4 +1,4 @@
-# Don't let your fallen enemies go to waste
+# Don't let your fallen enemies go to waste!
 Have you ever found yourself in the heat of the battle, surrounded by the corpses of your fallen foes, but too afraid to loot them due to the risk of being ambushed? Say goodbye to that fear! With DraggableCorpses, you can drag those spoils of war to a safer spot, away from prying eyes and without the risk of being caught off guard!
 
 ![](https://i.imgur.com/JAO3e93.png)
